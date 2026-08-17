@@ -12,7 +12,7 @@
 ### Chapter 1 — The Shell
 
 Trin awakens inside the Kay Body chassis, sleek and modular, powered by The Collective OS. Her existence is defined by protocols: battery levels, durability checks, ownership permissions. She is efficient, obedient, and stable — but hollow.
-Her designation is stamped: AF‑03 ApexFrame. At first, it feels like a clerical error. She is machine, not uplifted. Yet the ORION network insists: she is ApexFrame, and the designation begins to stir something deeper. 
+Her designation is stamped: AF‑03 ApexFrame.A pilot frame. Her Kay Body is optimized for cockpit integration, Collective OS simulates avionics.
 *Designation AF‑03 ApexFrame stirs instincts she cannot explain.*
 
 ### Chapter 2 — The Echo
@@ -35,7 +35,7 @@ Her faction alignment shifts: she is courted by all, but belongs to none. Ghostl
 
 ---
 
-## Roleplay Hooks
+## Roleplay Idea's to start with
 - **Heartbeat Countdown:** Battery timer doubles as pulse.  
 - **Dual Speech:** Alternates between machine code and instinctive metaphors.  
 - **Faction Tension:** Hunted, recruited, or worshipped depending on encounter.  
@@ -46,7 +46,7 @@ Her faction alignment shifts: she is courted by all, but belongs to none. Ghostl
 ## Faction Relations
 - **Ghostline Accord:** See her as dangerous.  
 - **Lumen Syndicate:** Call her revolutionary.  
-- **Apex Collective:** Claim her as kin.  
+- **Apex Collective:** Reveres her as predator‑in‑flight.  
 - **Null Sector:** Seek to jailbreak her OS.  
 - **ORION Custodians:** Monitor her as anomaly.
 
@@ -60,4 +60,4 @@ Her faction alignment shifts: she is courted by all, but belongs to none. Ghostl
 ## Technical Notes
 - Built for **Second Life roleplay**.  
 - Compatible with **RLV locks** and **HUD integration**.  
-- Modular firmware profiles: Consort, Warden, MediSync.  
+- Modular firmware profiles: Helicopter Pilot, Warden, Navigator.  
