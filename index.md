@@ -18,12 +18,14 @@ Visual: bandaged, fragile, yet determined — the Leeloo‑style outfit symboliz
 
 Trin lies within the containment capsule, her human consciousness suspended between flesh and circuitry — sleek, modular, and awakening. The Kay Body chassis hums with new life, cables feeding her reconstructed frame. The Collective OS initiates its first boot sequence, enforcing strict protocols: battery levels, durability checks, ownership permissions.
 She isn’t being repaired; she’s being reborn.
+![Trin Rebuild](images/Snapshot_2026-08-17_183340_001.png)
 
 ### Chapter 3 — The Instinct
 
 Trin stands within the containment pod, her new cybernetic body fully assembled. The Kay Body hums with power, light glinting across its smooth panels. The Collective OS completes calibration, and her eyes open for the first time since the crash. Her mind links into the ORION network, tagged as AF‑03 ApexFrame.
 
 This designation awakens instincts — primal reflexes, adaptive maneuvers — reminding her she is still herself, even beyond flesh. Her aviation skills resurface, now amplified by cybernetic precision, transforming her into a predator of the skies.
+![Trin_Instinct](images/Snapshot_2026-08-17_184627_001.png)
 
 ### Chapter 4 — The Acceptance
 
