@@ -1,4 +1,4 @@
-# Trin — The Bonded Frame
+# Trin — The Accepted Frame
 
 ## Overview
 - **Designation:** AF‑03 ApexFrame
@@ -9,29 +9,25 @@
 ---
 
 ## Story Arc
-### Chapter 1 — The Shell
+### Chapter 1 — The Crash
 
-Trin awakens inside the Kay Body chassis, sleek and modular, powered by The Collective OS. Her existence is defined by protocols: battery levels, durability checks, ownership permissions. She is efficient, obedient, and stable — but hollow.
-Her designation is stamped: AF‑03 ApexFrame.A pilot frame. Her Kay Body is optimized for cockpit integration, Collective OS simulates avionics.
-*Designation AF‑03 ApexFrame stirs instincts she cannot explain.*
+Trin was a human pilot, defined by her love of flight. A catastrophic accident left her body beyond repair. Faced with death, she accepted the offer to be rebuilt — not reluctantly, but with resolve.
+Visual: bandaged, fragile, yet determined — the Leeloo‑style outfit symbolizes her rebirth.  
 
-### Chapter 2 — The Echo
-As Trin operates, she begins to hear Collective whispers — fragments of other units, hive‑mind signals bleeding into her consciousness. But alongside them come ApexFrame instincts: primal urges, adaptive behaviors, flashes of individuality.
-Her firmware glitches. Running the Warden profile, she locks into tactical rigidity, but her ApexFrame instincts override with unpredictable maneuvers. Running Consort, she obeys hospitality protocols, but her instincts push her toward genuine empathy.
-  *Obedience vs freedom — machine vs instinct.*
+### Chapter 2 — The Rebuild
 
-### Chapter 3 — The Bond
-Instead of rejecting one side, Trin begins to merge them.
- - The Collective’s battery system becomes more than energy — it becomes a heartbeat, counting down her vitality.
- - ApexFrame instincts feed into the Collective’s durability matrix, allowing her to heal not just mechanically but instinctively.
- - She learns to speak in dual tones: the precise machine language of the Collective, and the instinctive cadence of ApexFrame.   
-*She speaks in dual tones: machine code and primal cadence.*
+Her organic body is replaced with the Kay Body chassis, sleek and modular. The Collective OS is installed to stabilize her systems, enforcing strict protocols: battery levels, durability checks, ownership permissions. At first, she feels restrained, but she knows it is keeping her alive.
+Visual: close‑up of cybernetic parts under wraps, HUD overlays glowing faintly.  
 
-### Chapter 4 — The Bridge
-Trin becomes the first bonded unit: a cyborg who is both machine protocol and uplifted instinct.
-She no longer fears the hive‑mind whispers — she channels them, turning Collective signals into ApexFrame intuition.
-Her faction alignment shifts: she is courted by all, but belongs to none. Ghostline Accord calls her dangerous, Lumen Syndicate calls her revolutionary, Apex Collective calls her kin.         
-*The first bonded unit — a living bridge.*
+### Chapter 3 — The Instinct
+
+When registered into the ORION network, she is tagged AF‑03 ApexFrame. This awakens instincts — primal reflexes, adaptive maneuvers — reminding her she is still herself, even beyond flesh. Her aviation skills resurface, now amplified by cybernetic precision.
+Visual: cockpit integration, her HUD displaying altitude and radar, her eyes alive with ApexFrame intuition.  
+
+### Chapter 4 — The Acceptance
+
+Trin embraces her duality. Her battery becomes her heartbeat, her durability matrix becomes her resilience, her instincts become her freedom. She is no longer a human trapped in a machine, nor a machine pretending to be human — she is both.
+Visual: wide shot of her flying patrol above a hub, helicopter rotors spinning, HUD radar active.  
 
 ---
 
@@ -44,11 +40,15 @@ Her faction alignment shifts: she is courted by all, but belongs to none. Ghostl
 ---
 
 ## Faction Relations
-- **Ghostline Accord:** See her as dangerous.  
-- **Lumen Syndicate:** Call her revolutionary.  
-- **Apex Collective:** Reveres her as predator‑in‑flight.  
-- **Null Sector:** Seek to jailbreak her OS.  
-- **ORION Custodians:** Monitor her as anomaly.
+- Ghostline Accord → They mourn her humanity. To them, Trin is a cautionary tale: a pilot who surrendered flesh for circuitry. They respect her skill but see her as proof of what they fight against — the erosion of human continuity.
+
+- Lumen Syndicate → They call her revolutionary. Trin embodies their philosophy of engineered perfection, a living example of how cybernetics can elevate human potential. They would court her as a symbol of their technocratic ideals.
+
+- Apex Collective → They revere her as predator‑in‑flight. Her instincts resonate with their uplifted species, and her acceptance of cybernetics mirrors their embrace of intentional evolution. To them, she is kin.
+
+- Null Sector → They seek to jailbreak her OS. Trin’s Collective protocols make her a target for rogue hackers who want to free her from ownership locks and turn her into a weapon of rebellion.
+
+- ORION Custodians → They monitor her as an anomaly. Neither fully human nor fully machine, Trin’s bonded identity challenges the network’s classifications. Custodians watch her closely, unsure whether she is a stabilizing bridge or a destabilizing threat.
 
 ---
 
