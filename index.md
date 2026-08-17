@@ -12,7 +12,7 @@
 ### Chapter 1 — The Crash
 
 Trin was a human pilot, defined by her love of flight. A catastrophic accident left her body beyond repair. Faced with death, she accepted the offer to be rebuilt — not reluctantly, but with resolve.
-Visual: bandaged, fragile, yet determined — the Leeloo‑style outfit symbolizes her rebirth.  
+
 
 ### Chapter 2 — The Rebuild
 
@@ -57,11 +57,6 @@ She isn’t surviving anymore. She is living, evolved, and free.
 - Null Sector → They seek to jailbreak her OS. Trin’s Collective protocols make her a target for rogue hackers who want to free her from ownership locks and turn her into a weapon of rebellion.
 
 - ORION Custodians → They monitor her as an anomaly. Neither fully human nor fully machine, Trin’s bonded identity challenges the network’s classifications. Custodians watch her closely, unsure whether she is a stabilizing bridge or a destabilizing threat.
-
----
-
-## Visuals
-*(Insert concept art, renders, or screenshots here — GitHub Pages supports images via `/assets` folder.)*
 
 ---
 
