@@ -11,8 +11,9 @@
 ## Story Arc
 ### Chapter 1 — The Crash
 
-Trin was a human pilot, defined by her love of flight. A catastrophic accident left her body beyond repair. Faced with death, she accepted the offer to be rebuilt — not reluctantly, but with resolve.
+Trin was the sort of kid who disassembled her toys to see how the wind moved through gears and why something that looked so small could make such a big noise. Raised in a coastal town by a single mother who ran a charter fishing business, Trin grew up on tides and tailwinds, learning to read weather as if it were a language. By her late twenties she'd traded the fishing docks for flight school, charming instructors with steady hands, a dry sense of humor, and an obsessive attention to checklists. She spent her thirties flying everything from commuter hops to emergency medevac runs, developing a reputation for taking odds that made others nervous and bringing people home when it mattered most. She keeps a cracked leather flight log under her bed and a faded photograph of her mother taped inside the cockpit visor of her favorite helmet.
 
+The crash came on a twilight approach after a storm over a stretch of scrubland, a technical cascade she still replays in slow motion. She woke days later in a hospital with a borrowed name on her chart and a list of things she couldn't remember: the last radio call, the face of the passenger who hadn't made it. Recovery meant relearning small things—how to grip a mug, how to trust a horizon that moved under her—but also piecing together the more dangerous parts of herself: the impulsive pilot who loved the risk and the careful woman who loved the people affected by it. Now she rents a room above a mechanic's garage, works as a courier on safe, low-slung routes, and volunteers teaching navigation to kids who remind her that curiosity can be steadier than fear. Trin's hands still tremble on bad days, but when she watches a sunrise from the cab of a grounded plane, she is planning the next flight as if the maps themselves can be rewritten.
 
 ### Chapter 2 — The Rebuild
 
