@@ -7,7 +7,7 @@
 - **Network:** ORION (Neo‑Synth integration)
 
 ---
-
+[!book cover](images/book_cover.png)
 ## Story Arc
 ### Chapter 1 — The Crash
 
