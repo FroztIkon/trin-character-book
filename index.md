@@ -1,4 +1,4 @@
-# Trin — The Accepted Frame
+# Trin — The Bonded Frame
 
 ## Overview
 - **Designation:** AF‑03 ApexFrame
