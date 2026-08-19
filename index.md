@@ -47,7 +47,7 @@ Her loneliness softens into clarity. Elias’s absence, the failed attempts at i
 The Silent Reach still calls to her, a horizon beyond maps and laws. But she no longer seeks it to escape. She seeks it to affirm. In that unmapped expanse, she will prove that freedom is not the absence of systems, but the mastery of them.
 
 Trin is no longer divided. She is both pilot and craft, both memory and machine. She is the Bonded Frame—a testament that acceptance is not surrender, but transformation.
-
+![Trin_Acceptance](images/Snapshot_019.jpg)
 
 ---
 
