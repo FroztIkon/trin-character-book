@@ -52,7 +52,7 @@ Trin’s acceptance was not surrender but transformation, and Spice was the livi
 
 The Silent Reach still calls to her, a horizon beyond maps and laws. But she no longer seeks it to escape. She seeks it to affirm. In that unmapped expanse, she will prove that freedom is not the absence of systems, but the mastery of them.
 
-She is the Bonded Frame
+She is the Spectral Essence
 ![Trin_Acceptance](images/Snapshot_019.jpg)
 
 ---
@@ -61,7 +61,7 @@ She is the Bonded Frame
 - **Heartbeat Countdown:** Battery timer doubles as pulse.  
 - **Dual Speech:** Alternates between machine code and instinctive metaphors.  
 - **Faction Tension:** Hunted, recruited, or worshipped depending on encounter.  
-- **Bonded Identity:** Balance of machine protocol and ApexFrame instinct.
+- **Bonded Identity:** Balance of machine protocol and Spectral Essence instinct.
 
 ---
 
