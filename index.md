@@ -1,7 +1,7 @@
-# Trin — The Bonded Frame
+# Trin — The Spectral Essence
 
 ## Overview
-- **Designation:** 31-39672 Trinity
+- **Designation:** SE‑31‑39672 Trinity
 - **Chassis:** Kay Body (modular cyborg)
 - **OS:** The Collective (K‑Edge Designs)
 - **Network:** ORION (Neo‑Synth integration)
